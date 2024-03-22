@@ -2,7 +2,7 @@
 """0x00-python_variable_annotations/9-element_length.py"""
 
 
-from typing import Iterable, Sequence, Tuple
+from typing import Iterable, Sequence, Tuple, List
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:

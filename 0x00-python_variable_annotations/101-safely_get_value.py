@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""0x00-python_variable_annotations/101-safely_get_value.py"""
 
 from typing import Any, Mapping, TypeVar, Union
 

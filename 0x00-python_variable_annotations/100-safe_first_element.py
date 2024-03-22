@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""0x00-python_variable_annotations/100-safe_first_element.py"""
+
 
 from typing import Any, Sequence, Union
 

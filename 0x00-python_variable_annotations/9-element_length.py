@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""0x00-python_variable_annotations/9-element_length.py"""
+
 
 from typing import Iterable, Sequence, Tuple
 

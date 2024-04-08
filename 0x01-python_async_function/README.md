@@ -19,13 +19,13 @@ PythonBack-end
 
 **Read or watch**:
 
--   [Async IO in Python: A Complete Walkthrough](https://intranet.alxswe.com/rltoken/zYkXScziW1D5rNdNEvObjQ "Async IO in Python: A Complete Walkthrough")
--   [asyncio - Asynchronous I/O](https://intranet.alxswe.com/rltoken/aZUO4GiWHbPIrVBIwptFAw "asyncio - Asynchronous I/O")
--   [random.uniform](https://intranet.alxswe.com/rltoken/72mVf1s8rx2ih_U2WjBmaA "random.uniform")
+-   [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/ "Async IO in Python: A Complete Walkthrough")
+-   [asyncio - Asynchronous I/O](https://docs.python.org/3/library/asyncio.html "asyncio - Asynchronous I/O")
+-   [random.uniform](https://docs.python.org/3/library/random.html#random.uniform "random.uniform")
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/RzzuxS2J7-SysSxP0Hu3cA "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/ "explain to anyone"), **without the help of Google**:
 
 -   `async` and `await` syntax
 -   How to execute an async program with `asyncio`
@@ -86,46 +86,7 @@ bob@dylan:~$ ./0-main.py
 -   Directory: `0x01-python_async_function`
 -   File: `0-basic_async_syntax.py`
 
-Done?! Check your code
-
-×
-
-#### Correction of "0. The basics of async"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Ask for a new correction : in progress... : an error occurred Get a sandbox QA Review
-
-×
-
-#### 0\. The basics of async
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Ask for a new correction Get a sandbox QA Review
 
 ### 1\. Let's execute multiple coroutines at the same time with async
 
@@ -165,46 +126,7 @@ The output for your answers might look a little different and that’s okay.
 -   Directory: `0x01-python_async_function`
 -   File: `1-concurrent_coroutines.py`
 
-Done?! Check your code
-
-×
-
-#### Correction of "1. Let's execute multiple coroutines at the same time with async"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Ask for a new correction : in progress... : an error occurred Get a sandbox QA Review
-
-×
-
-#### 1\. Let's execute multiple coroutines at the same time with async
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Ask for a new correction Get a sandbox QA Review
 
 ### 2\. Measure the runtime
 
@@ -239,46 +161,7 @@ bob@dylan:~$ ./2-main.py
 -   Directory: `0x01-python_async_function`
 -   File: `2-measure_runtime.py`
 
-Done?! Check your code
-
-×
-
-#### Correction of "2. Measure the runtime"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Ask for a new correction : in progress... : an error occurred Get a sandbox QA Review
-
-×
-
-#### 2\. Measure the runtime
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Ask for a new correction Get a sandbox QA Review
 
 ### 3\. Tasks
 
@@ -316,46 +199,7 @@ bob@dylan:~$ ./3-main.py
 -   Directory: `0x01-python_async_function`
 -   File: `3-tasks.py`
 
-Done?! Check your code
-
-×
-
-#### Correction of "3. Tasks"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Ask for a new correction : in progress... : an error occurred Get a sandbox QA Review
-
-×
-
-#### 3\. Tasks
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Ask for a new correction Get a sandbox QA Review
 
 ### 4\. Tasks
 
@@ -387,59 +231,4 @@ bob@dylan:~$ ./4-main.py
 -   Directory: `0x01-python_async_function`
 -   File: `4-tasks.py`
 
-Done?! Check your code
-
-×
-
-#### Correction of "4. Tasks"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Ask for a new correction : in progress... : an error occurred Get a sandbox QA Review
-
-×
-
-#### 4\. Tasks
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
-
-×
-
-#### Recommended Sandbox
-
-Running only
-
-### 1 image<small class="ml-2">(0/2 Sandboxes spawned)</small>
-
-### Ubuntu 18.04 - Python 3.7
-
-Ubuntu 18.04 with Python 3.7
-
-Run
-
-Copyright © 2024 ALX, All rights reserved.
+Done? Check your code Ask for a new correction Get a sandbox
